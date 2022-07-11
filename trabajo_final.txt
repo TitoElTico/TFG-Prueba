@@ -1,6 +1,10 @@
 =lorem (4,5)
 Donde se pueda realizar la forma
 
+Este es el texto que desarrolla Cristofer 
+
+
+
 
 
 Aqui es donde Marlon realiza su parte del texto 
